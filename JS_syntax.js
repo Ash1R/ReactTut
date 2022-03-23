@@ -107,6 +107,7 @@ We're going to be importing components from other parts of our program or from l
 Importing is like this;
 
 import component from "./filename"
+
 THe ./ is part of the filepath to the file with the component
 
 
